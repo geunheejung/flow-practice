@@ -1,8 +1,8 @@
-import React from "react";
+import SignupPage from "@pages/Signup";
 
 const App = () => (
   <div>
-    <h1>React without CRA...</h1>
+    <SignupPage />
   </div>
 );
 
