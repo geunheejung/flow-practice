@@ -1,0 +1,24 @@
+.text {
+  font-size: 1rem;
+}
+
+.text.--default {
+  color: lightgrey;
+}
+.text.--primary {
+  color: #000;
+}
+.text.--error {
+  color: lightcoral;
+}
+.text.--success {
+  color: lightblue;
+}
+
+.text.--normal {
+  font-weight: 400;
+}
+
+.text.--bold {
+  font-weight: 700;
+}
